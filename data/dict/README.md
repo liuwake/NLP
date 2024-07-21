@@ -1,18 +1,19 @@
 # data/dict
 
 ## 0. intro
-1. read dict file and save to dict.json or dict.csv, and construct the dict file for LLM.
-2. get dict data by `api`
-3. get dict data from `db` or `csv` etc.
-4. crawler
+- a: __convert__:read dict file and save to dict.json or dict.csv, and construct the dict file for LLM.
+- b. __api__:get dict data by `api`
+- c. __data__:get dict data from `db` or `csv` etc.
+- d. __crawler__
 
 ## 1. purpose
 - get dict data for siyong_tutor and other LLMs.
 
-## 2. format
+----
+## a convert
 - mdd,mdx
 - eudic
-### 2.1 mdd,mdx
+### a.1 mdd,mdx
 
 
 #### ref
@@ -21,7 +22,7 @@
     - 给出了相关`repo`参考
     - 作者其他博文不错,有涉猎NLP
 
-### 2.2eudic
+### a.2 eudic
 
 #### intro
 
@@ -45,3 +46,9 @@
     - 还可以注册?
 - https://github.com/zenghongtu/saladict-desktop 沙拉词典 一款跨平台词典app
 
+## c: data
+### intro
+- from open source datasets or free downloaded files.
+
+### repe
+- https://github.com/skywind3000/ECDICT Free English to Chinese Dictionary Database.
