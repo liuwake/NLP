@@ -3,6 +3,10 @@
 ## intro
 - This repo is built for learn NLP and LLM.
 
+## data
+### dict
+- read dict file and save to dict.json or dict.csv.
+- construct the dict file for LLM.
 
 
 ## intern
