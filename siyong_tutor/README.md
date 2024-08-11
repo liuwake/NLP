@@ -6,5 +6,10 @@
 - `Siyong tutor` is based on `InternLM2.5` and is optimized using `Xtuner`. It utilizes `Langchain` for RAG (Retrieval-Augmented Generation) and `LMdeploy` for deployment. Additionally, it supports `Gradio` as the front-end GUI. This model will open-source the Large Language Model (LLM) and configuration code. In the future, it will be launched on `OpenXLab`, `ModelScope`, and `Baidu AI Studio`.
 - This product (project) participates in the third phase of the InternLM Camp competition.
 
+## disscuss
+- at https://github.com/InternLM/Tutorial/discussions/1154
+
+## framework
+
 ![frame](./frame.png "frame")
 
